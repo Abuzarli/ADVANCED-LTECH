@@ -1,7 +1,11 @@
+
+
 {
+  "type":"module",
   "name": "advanced-tech",
   "version": "0.1.0",
   "private": true,
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -33,4 +37,7 @@
     "file-loader": "^6.2.0",
     "sass": "^1.70.0"
   }
+  
 }
+
+
